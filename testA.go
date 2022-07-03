@@ -1,4 +1,4 @@
 package gitTest
 
-var testA1 = 1
+var testA1 = "modityByB"
 var testA2 = 2
