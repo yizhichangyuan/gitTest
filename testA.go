@@ -1,4 +1,4 @@
 package gitTest
 
-var testA1 = "modityByB"
-var testA2 = "newAddByB"
+var testA1 = "oldversion"
+var testA2 = "oldversion"
